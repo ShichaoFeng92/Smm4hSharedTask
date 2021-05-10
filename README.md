@@ -1,5 +1,5 @@
 # Smm4hSharedTask
-Source code for smm4h shared task 1 and task 2. Task 2 includes sub-tasks for English and French
+Source code for smm4h shared task 1 and task 2. Task 2 includes sub-tasks for English and French. Datasets are in the directory data/ and most prediction results of validation data sets and model performance reports are in the directory result_performance_files/
 ## Dependency
 * scikit-learn >= 0.22.1
 * tensforflow == 2.0.0
@@ -28,3 +28,6 @@ Pre_processing functions
 ### reconstruct.py
 Merge current training data set with additional data sets include medication mention tweets and adverse effects reported tweets
 
+# Corpus and additional source
+
+# models for classifiers, vocabulary of phrases and word vector space (monolingual and multilingual)
