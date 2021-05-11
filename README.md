@@ -28,6 +28,7 @@ Pre_processing functions
 ### reconstruct.py
 Merge current training data set with additional data sets include medication mention tweets and adverse effects reported tweets
 
-# Corpus and additional source
-
-# models for classifiers, vocabulary of phrases and word vector space (monolingual and multilingual)
+## Corpus and additional source
+https://myunt-my.sharepoint.com/:u:/g/personal/fengfeng_my_unt_edu/EYJVrFc4Ps9FonfQ-yWkNcIB9ITe9C32L5bKdTKPn1FBnA?e=T7riaL
+## models for classifiers, vocabulary of phrases and word vector space (monolingual and multilingual)
+https://myunt-my.sharepoint.com/:u:/g/personal/fengfeng_my_unt_edu/ETM6nkncgCtFsvL07A7ZC4EBJNOVdDvtz9upxRlDRiUWhg?e=3mfLsu
